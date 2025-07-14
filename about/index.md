@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About Me
+title: About MIT Aero
 ---
 
-# About Me
-  
-Write about yourself in markdown
+# About MIT Aero
+
+Aeromodelling club in MITAoE
