@@ -13,7 +13,6 @@
 - ### Add your markdown pages to `/wiki` directory
     - Learn how to write markdown.
     - Edit markdown pages in any editor (Recommended editors are VSCode with [markdown-editor](https://marketplace.visualstudio.com/items?itemName=zaaack.markdown-editor) extension or [ghostwriter](https://ghostwriter.kde.org/))
-    - Add appropriate tags to help in search.
     - Add your pages to `/wiki` directory.
 - # Push changes
     - Commit and push your changes with
